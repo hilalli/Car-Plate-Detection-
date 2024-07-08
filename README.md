@@ -1,4 +1,4 @@
-YOLOv8-Based Automatic Vehicle License Plate Detection and Recognition System
+## YOLOv8-Based Automatic Vehicle License Plate Detection and Recognition System ##
 This project aims to detect and recognize vehicle license plates using the YOLOv8 model and EasyOCR library. Below are the components and usage steps of the project.
 
 Table of Contents
@@ -18,11 +18,12 @@ Python 3.x
 Anaconda or Virtualenv
 YOLOv8 model
 EasyOCR library
+
 Installation
 Clone this repository to your local machine:
 
 
-git clone https://github.com/user/repo.git
+git clone https://github.com/hilalli/Car-Plate-Detection-
 cd repo
 
 Install required Python dependencies:
